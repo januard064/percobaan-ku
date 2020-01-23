@@ -2,7 +2,9 @@ Rencana Belajar
   -php
     -aritmatika
     -kondisional
-  -datastructure
   -html
   -css
   -framework
+    -laravel
+  -css3
+  -javascript
