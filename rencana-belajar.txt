@@ -2,10 +2,10 @@ Rencana Belajar
   -php
     -aritmatika
     -kondisional
-  -datastructure
   -html
   -css
   -framework
     -laravel
   -phyton
-  -javadcript
+  -javascript
+
