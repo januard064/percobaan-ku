@@ -6,5 +6,6 @@ Rencana Belajar
   -css
   -framework
     -laravel
-  -css3
+  -phyton
   -javascript
+
